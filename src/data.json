@@ -1,0 +1,48 @@
+[
+    {
+            "from": "Frankfurt Hbf",
+            "to": "Stuttagrt Hbf",
+            "starttime": "9:40",
+            "endtime": "11:20",
+            "duration": 100
+          },
+          {
+            "from": "Berlin Hbf",
+            "to": "Stuttagrt Hbf",
+            "starttime": "9:40",
+            "endtime": "11:20",
+            "duration": 100
+          },
+          {
+            "from": "Berlin Hbf",
+            "to": "Frankfurt Hbf",
+            "starttime": "5:40",
+            "endtime": "11:30",
+            "duration": 350
+          },
+          {
+            "from": "München Hbf",
+            "to": "Frankfurt Hbf",
+            "starttime": "12:20",
+            "endtime": "15:30",
+            "duration": 190
+          },
+
+          {
+            "from": "Hamburg Hbf",
+            "to": "Frankfurt Hbf",
+            "starttime": "9:50",
+            "endtime": "11:20",
+            "duration": 90
+          },
+
+          {
+            "from": "Essen Hbf",
+            "to": "Frankfurt Hbf",
+            "starttime": "9:45",
+            "endtime": "11:20",
+            "duration": 105
+          }
+        
+        ]
+    
